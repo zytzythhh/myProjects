@@ -12,26 +12,11 @@
 - 完整的对局记录和回放  
 - 游戏状态管理 
 - 实时胜负判断
-- setup软件发布
   
 ## 技术细节
-- AI算法：位置评分法
+- AI算法：位置评分法，保证攻防平衡
 - 图形库：EasyX（Windows）
 - 数据结构：二维数组表示棋盘
-
-## 项目结构
-```
-Gobang-Game/
-├── src/
-│   ├── gobang.cpp
-│   └── gobang.h
-├── resources/
-│   └── 01.jpg
-├── records/
-│   ├── pvp.txt
-│   └── pve.txt
-├── README.md
-└── .gitignore
-```
+- 软件发布：生成游戏软件
 
 > 开发环境：Visual Studio 2022 + C++11
