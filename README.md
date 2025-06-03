@@ -1,5 +1,7 @@
 # Gobang Game (五子棋)
 
+![image](https://github.com/user-attachments/assets/b197af59-7c6b-4907-bca5-c5ed0fc0221f)
+
 该项目实现了一个完整的五子棋游戏，支持以下功能：
 - 人人对战模式（PVP）
 - 人机对战模式（PVE）
