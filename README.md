@@ -1,7 +1,6 @@
 # 图书馆信息管理系统
 
-![Uploading image.png…]()
-
+![image](https://github.com/user-attachments/assets/f2160c96-a1c9-410f-a92f-048890af7be3)
 
 本项目是基于Java开发的图书馆信息管理系统，采用C/S架构和MVC设计模式，实现了图书馆核心业务场景的数字化管理。系统支持读者、管理员和访客三类角色，提供图书检索、借阅管理、用户管理等核心功能，通过JDBC实现高效数据交互，并结合事务管理确保数据一致性。
 
