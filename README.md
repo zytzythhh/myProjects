@@ -25,6 +25,6 @@
 1. 使用 Visual Studio 打开项目
 2. 修改pvp.txt及pve.txt路径
 3. 编译并运行，选择游戏模式开始
-4. 或：在Setup1\Debug下双击setup，生成可直接运行的应用程序
+4. 或：在Setup1/Debug下双击setup，生成可直接运行的应用程序
 
 > 开发环境：Visual Studio 2022 + C++17
